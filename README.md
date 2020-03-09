@@ -1,2 +1,2 @@
 # Rpi
-Private Rpi Repo with necessary tools
+Rpi Repo with necessary tools
